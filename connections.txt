@@ -1,1 +1,2 @@
 This is DB connections configuration file
+Adding external application details

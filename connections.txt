@@ -1,4 +1,0 @@
-This is DB connections configuration file
-Adding external application details
-Adding May Release changes.
-new May release changes
